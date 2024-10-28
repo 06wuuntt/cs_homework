@@ -1,0 +1,5 @@
+num1,num2 = eval(input()), eval(input())
+print(f'Sum:{num1+num2:.2f}')
+print(f'Difference:{num1-num2:.2f}')
+print(f'Product:{num1*num2:.2f}')
+print(f'Quotient:{num1/num2:.2f}')
