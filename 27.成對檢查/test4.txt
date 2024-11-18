@@ -1,0 +1,5 @@
+3
+4
+{a(b[c(d)e][f(g)h]i)(j[k(l)m][n(o)p]q)r}
+(q[w(e{[q]}r)a][a(s{}d)f]z)
+[p(o{i})l((j{h}t)j}g{m)h]
