@@ -20,7 +20,6 @@ def calculate(n, m, sicknow, b, c, d, time, plus):
     y = math.floor(sicknow*x)
     return calculate(n, m+1, sicknow , b, c, d, time, y)
     
-
 def main():
     totalpeople, time, firstday, spread, day, health = [eval(input()) for _ in range(6)] 
     calculate(totalpeople, 1, 0, spread, day, health, time, firstday)
